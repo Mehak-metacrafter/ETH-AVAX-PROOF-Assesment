@@ -1,4 +1,4 @@
-# MyToken - Simple Solidity Smart Contract
+# Simple Solidity Smart Contract
 
 This is a simple Solidity smart contract for managing ownership..
 
