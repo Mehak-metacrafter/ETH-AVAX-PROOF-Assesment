@@ -30,6 +30,7 @@ To deploy and interact with the contract, follow these steps:
     }
 ```
 
+![image](https://github.com/Mehak-metacrafter/ETH-AVAX-PROOF-Assesment1/assets/155759527/19ec84ad-ad86-4882-ae14-da1d19cf8ce9)
 
 
 ## Authors
